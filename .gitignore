@@ -1,0 +1,21 @@
+# Compiled executables
+fsserver
+fsclient
+
+# Object files
+*.o
+
+# Runtime persistence data
+data/*.dat
+data/*.tmp
+
+# Temporary files
+*.log
+*.swp
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
